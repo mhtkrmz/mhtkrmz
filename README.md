@@ -27,5 +27,5 @@
 
 
 ### I am currently looking for job opportunities, please Contact:
-- Email: your.email@uni.ac.uk
-- LinkedIn: linkedin.com/in/yourname
+- Email: ucabm84@ucl.ac.uk
+- LinkedIn: https://www.linkedin.com/in/mehmet-kurmaz-a60b112b1/
