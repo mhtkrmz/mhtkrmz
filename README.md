@@ -22,3 +22,10 @@
 - **Languages:** Python, Java, C, 
 - **Concepts:** Algorithms, data structures, numerical methods, simulation methods
 - **Tools:** Git, GitHub, Jupyter
+
+---
+
+
+### I am currently looking for job opportunities, please Contact:
+- Email: your.email@uni.ac.uk
+- LinkedIn: linkedin.com/in/yourname
