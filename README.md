@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=MSc+Financial+Computing+(Risk)+@+UCL;BEng+Computer+Science+@+Edinburgh;Maths+%E2%88%A9+CS+in+Finance;Quantitative+Risk+%26+Algorithms" />
 </p>
+
 ## 👋 Hi, I'm Mehmet Kurmaz
 
 ### 🎓 Education
