@@ -6,7 +6,7 @@
 
 ### 🎓 Education
 - **MSc Financial Computing (Risk)** — University College London  
-- **BEng Computer Science** — University of Edinburgh
+- **BEng Computer Science** — University of Edinburgh (Graduated with First Class Hons)
 
 ---
 
