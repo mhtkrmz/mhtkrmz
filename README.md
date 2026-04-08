@@ -5,7 +5,7 @@
 ## 👋 Hi, I'm Mehmet Kurmaz
 
 ### 🎓 Education
-- **MSc Financial Computing (Risk)** — University College London  
+- **MSc Financial Risk Management** — University College London  
 - **BEng Computer Science** — University of Edinburgh (Graduated with First Class Hons)
 
 ---
